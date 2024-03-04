@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Teko:wght@300..700&display=swap');
+
+p{
+    font-family: "Outfit", sans-serif;
+    font-size: 100px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
+.btn-group{
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nosotros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mision{
+    font-family: "Teko", sans-serif;
+}
+.vision{
+    font-family: "Teko", sans-serif;
+}
+.valores{
+    font-family: "Teko", sans-serif;
+}
+.Pparrafo, p{
+    font-size: 20px;
+}
+.Sparrafo, p{
+    font-size: 20px;
+}
+.imagen1, img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

@@ -1,0 +1,16 @@
+body{
+    background-image: url('./images/fondo7.jpg');
+}
+img{
+    width: 50%;
+}
+.btn-group{
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
